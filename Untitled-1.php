@@ -1,6 +1,6 @@
 <html>
     <head>
-<title>problema</title>
+<title>nombres</title>
     </head>
     <body> 
     <?php
